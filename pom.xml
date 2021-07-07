@@ -23,7 +23,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>13</java.version>
         <tomcat.version>9.0.30</tomcat.version>
-        <vaadin.version>8.12.1</vaadin.version>
+        <vaadin.version>8.13.2</vaadin.version>
     </properties>
 
     <dependencies>
